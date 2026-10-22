@@ -1,0 +1,5 @@
+Q1: 88edfd02
+Q2: 3
+Q3: git pull. Because Git protect user from accidentally overwriting or losing work that already exists on the remote server
+Q4: No, because the password remains permanently exposed in the repository's previous commit history
+Q5: git branch -d old-fix, git push origin --delete old-fix
